@@ -1,0 +1,11 @@
+# Evitar archivos binarios y compilados
+*.pyc
+__pycache__/
+*.db
+*.sqlite
+*.log
+*.DS_Store
+Thumbs.db
+
+# Evitar el entorno virtual
+venv/
